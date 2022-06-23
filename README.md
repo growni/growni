@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @growni
-- 🌱 I’m learning Java 
+- 🌱 I’m studying Software engineering 
 
